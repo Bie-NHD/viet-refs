@@ -32,7 +32,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "vi",
-    locales: ["en"],
+    locales: ["vi"],
   },
 
   presets: [

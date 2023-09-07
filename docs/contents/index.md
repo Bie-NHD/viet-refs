@@ -5,9 +5,7 @@ sidebar_position: 4
 
 ## Các tác phẩm sáng tác
 
-
-
--  [Khoa Phung's Art Corner](https://www.facebook.com/profile.php?id=100092158263628)
+- [Khoa Phung's Art Corner](https://www.facebook.com/profile.php?id=100092158263628)
 
 ### Truyện tranh
 
@@ -22,10 +20,8 @@ sidebar_position: 4
 
 > Các nội dung này không có phân mục riêng do số lượng rải rác hoặc có tính chất quá đặc thù
 
-
-
 - Font chữ lấy cảm hứng từ hoạ tiết trống Đông Sơn
-  ([Link](https://www.facebook.com/graphicdesignVLU/videos/1371043146809379/) | [Thumbnail](img\contents\font-dong-son.png))
+  ([Link](https://www.facebook.com/graphicdesignVLU/videos/1371043146809379/) | [Thumbnail](img\font-dong-son.png))
 
 ### Nội dung truyền thống
 
