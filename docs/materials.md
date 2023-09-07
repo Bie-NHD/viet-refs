@@ -1,5 +1,6 @@
 ---
 title: Tư liệu
+sidebar_position: 3
 ---
 
 # Nguồn tư liệu tham khảo
@@ -39,7 +40,7 @@ _Xin hãy tham khảo và đóng góp xây dựng trong văn hóa và lành mạ
 - [artsofvietnam - Mỹ thuật Việt Nam](https://www.instagram.com/artsofvietnam/)
 - [vietnamartsleaks Mỹ thuật Việt Nam](https://www.instagram.com/vietnamartsleaks/)
 - [La Quốc Bảo ](https://www.facebook.com/baroluo)
-### Websites
+### 🌐 Websites
 - [Hoa Văn Đại Việt](https://hoavandaiviet.vn/?fbclid=IwAR18kr0IjygMZJJeO217dWNiAvA_nTJwLEMFtrITeJkRfXSMKcQ87Va_EoQ)
 ### 👋 Facebook groups
 - [Việt Phục Hội](https://www.facebook.com/groups/2440350972853718) - y phục

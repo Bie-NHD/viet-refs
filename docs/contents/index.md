@@ -1,10 +1,11 @@
 ---
 title: Tác phẩm
+sidebar_position: 4
 ---
 
 ## Các tác phẩm sáng tác
 
-### Các nội dung chất liệu truyền thống
+
 
 -  [Khoa Phung's Art Corner](https://www.facebook.com/profile.php?id=100092158263628)
 
@@ -21,7 +22,7 @@ title: Tác phẩm
 
 > Các nội dung này không có phân mục riêng do số lượng rải rác hoặc có tính chất quá đặc thù
 
-### Nội dung phái sinh
+
 
 - Font chữ lấy cảm hứng từ hoạ tiết trống Đông Sơn
   ([Link](https://www.facebook.com/graphicdesignVLU/videos/1371043146809379/) | [Thumbnail](img\contents\font-dong-son.png))
@@ -33,3 +34,7 @@ title: Tác phẩm
 ### Nền tảng / Websites
 
 - [Vietales](https://vietales.vn)
+
+### Alternated Universe / AU
+
+- [Huyễn Việt Kỳ Đàm](contents/au#hvkd) (Facebook: ~~[Page](https://www.facebook.com/macylaitranghuyenvietkydam)~~ Hacked | [Group](https://www.facebook.com/groups/huyenvietkydam) )
