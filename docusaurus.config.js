@@ -91,7 +91,7 @@ const config = {
       },
       announcementBar: {
         id: "announce",
-        content: "Trang web hiện đang trong quá trình xây dựng",
+        content: "⚠ <i>Trang web hiện đang trong quá trình xây dựng</i> ⚠",
         backgroundColor: "#fafbfc",
         textColor: "#091E42",
         isCloseable: false,
