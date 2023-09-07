@@ -6,17 +6,16 @@ title: Tác phẩm
 
 ### Các nội dung chất liệu truyền thống
 
-- Khoa Phung's Art Corner ([Facebook](https://www.facebook.com/profile.php?id=100092158263628))
+-  [Khoa Phung's Art Corner](https://www.facebook.com/profile.php?id=100092158263628)
 
 ### Truyện tranh
 
-- Lâm Hoàng Trúc
-  ([Facebook](https://www.facebook.com/lamhoangtruc.comic))
+- [Lâm Hoàng Trúc](https://www.facebook.com/lamhoangtruc.comic)
 
-  - Mùa hè bất tận
+  - Mùa hè bất tận - Xuất bản
   - Đường hoa (_cần chỉnh sửa_)
 
-- Đồng Vọng Dân Gian ([Facebok](https://www.facebook.com/EchoesofTheFolks))
+- [Đồng Vọng Dân Gian](https://www.facebook.com/EchoesofTheFolks) - Web | Xuất bản
 
 ## Các nội dung khác
 
@@ -33,4 +32,4 @@ title: Tác phẩm
 
 ### Nền tảng / Websites
 
-- Vietales ([Link](https://vietales.vn))
+- [Vietales](https://vietales.vn)
