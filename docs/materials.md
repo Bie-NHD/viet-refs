@@ -56,6 +56,11 @@ _Xin hãy tham khảo và đóng góp xây dựng trong văn hóa và lành mạ
 - [Nguyễn T.A Phong](https://www.facebook.com/profile.php?id=100079904440298) - _Nhiếp ảnh_
 - [Hoa Niên](https://www.facebook.com/Hoanien.concept) | [Tiktok](https://www.tiktok.com/@hoanien.concept)
   > Hoa Niên là thương hiệu cung cấp dịch vụ tư vấn thiết kế, may đo và cho thuê cổ phục Việt Nam
+- [Đa La Xước Phục - 多羅綽服](https://www.facebook.com/dalaxuocphuc)
+- [Lê Vũ Quỳnh Mai (Le Cee)](https://www.facebook.com/uncun.pg)
+- [Miêu Thái Công và Thác Gia Trang](https://twitter.com/MieuThaiCong)
+- [Hồ Đăng](https://twitter.com/vantranbao07)
+- [Đại Việt Phong Hoa – 大越豐華](https://daivietphonghoa.wordpress.com)
 
 ### Trên tin tức, thời sự chính thức
 
