@@ -1,9 +1,11 @@
 ---
-title: Tư liệu
+title: 📜 Tư liệu
 sidebar_position: 3
 ---
 
-# Nguồn tư liệu tham khảo
+# 📜 Tư liệu
+
+Nguồn tư liệu tham khảo
 
 ## 📚 Sách
 
@@ -16,9 +18,9 @@ sidebar_position: 3
 - Văn hóa, Tín ngưỡng và thực hành tôn giáo người Việt - Léopold Cadière
 - [L'art a Hué Nouvelle edition autorisee - Association des amis du vieux Hué](https://archive.org/details/larthunouvelle00asso)
 
-## 🔖 Tài liệu trực tuyến
+## 💻 Tài liệu trực tuyến
 
-Các nguồn tư liệu tham khảo có thể được biên soạn, phục chế bởi các tác giả và nhà nghiên cứu tâm huyết, vì vậy đôi khi có thể phản ánh ý kiến cá nhân.
+Các nguồn tư liệu tham khảo có thể được biên soạn, phục chế bởi các tác giả cá nhân, các nhà nghiên cứu, sưu tầm và các tổ chức phi lợi nhuận tâm huyết, vì vậy đôi khi có thể phản ánh ý kiến cá nhân.
 _Xin hãy tham khảo và đóng góp xây dựng trong văn hóa và lành mạnh_
 
 - [Phổ_Ngạn《溥彥》](https://twitter.com/_Pho_Ngan) - y phục và hiện vật cổ
@@ -61,6 +63,8 @@ _Xin hãy tham khảo và đóng góp xây dựng trong văn hóa và lành mạ
 - [Miêu Thái Công và Thác Gia Trang](https://twitter.com/MieuThaiCong)
 - [Hồ Đăng](https://twitter.com/vantranbao07)
 - [Đại Việt Phong Hoa – 大越豐華](https://daivietphonghoa.wordpress.com)
+- [Vietnam Centre](https://www.facebook.com/VietnamCentre)
+- [Tiếng Việt giàu đẹp](https://www.facebook.com/tiengvietgiaudep)
 
 ### Trên tin tức, thời sự chính thức
 
@@ -70,11 +74,3 @@ _Xin hãy tham khảo và đóng góp xây dựng trong văn hóa và lành mạ
 
 - [Số hóa di sản 3D](https://vr3d.vn/trienlam/) - _hiện vật mô phỏng VR3D_
 - [Hoa Văn Đại Việt](https://hoavandaiviet.vn/?fbclid=IwAR18kr0IjygMZJJeO217dWNiAvA_nTJwLEMFtrITeJkRfXSMKcQ87Va_EoQ)
-
-### 👋 Facebook groups
-
-- [Việt Phục Hội](https://www.facebook.com/groups/2440350972853718)
-- [Thoại Sử Đàm Lâu](https://www.facebook.com/groups/947255362740012/)
-- [Đại Việt Cổ Phong - 大越古風 - VietnamAncient](https://www.facebook.com/groups/630359420385614)
-- [Đình làng Việt](https://www.facebook.com/groups/DinhlangVN)
-- [Thuở Vàng Son](https://www.facebook.com/groups/521603065452080/)

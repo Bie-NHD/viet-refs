@@ -1,5 +1,5 @@
 ---
-title: Alternative Universe
+title: 🦄 Alternative Universe
 ---
 
 # Alternative Universe / AU
@@ -128,7 +128,7 @@ _Mỗi phương lấy cảm hứng từ nền văn hóa của một hoặc vài 
   > Thời đại: Nguyễn
 
 <details>
-<summary>TÀI LIỆU DO TÁC GẢI CUNG CẤP</summary>
+<summary>TÀI LIỆU DO TÁC GIẢ CUNG CẤP</summary>
 
 - Đông Sơn: https://luocsutocviet.com/2018/01/07/053-khao-cuu-ve-trang-phuc-thoi-ky-hung-vuong/
 - Lý - Trần: https://yhonsacviet.wordpress.com/2019/05/09/dac-trung-trang-phuc-dan-gian-thoi-ly-tran/
@@ -148,22 +148,32 @@ _Đây là bản đồ giả tưởng dành cho thế giới Huyễn Việt kỳ
 
 #### THIẾT LẬP
 
-- ① Huyễn Việt là một thế giới độc lập, tại chiều không gian này không tồn tại bất kỳ quốc gia hay lục địa nào khác.
-- ② Đại dương mênh mông không có điểm dừng. Từng có nhiều đại yêu ma quỷ quái thử bay qua biển lớn để tìm đến thềm lục địa khác nhưng đều bỏ mạng giữa biển khơi vì không đủ thể lực.
-- ③ Nhiều sông ngòi chằng chịt, không tiện vẽ hết lên bản đồ nên các bạn tự tưởng tượng nhé.
-- ④ Hoàng thành Đại Nội (hoàng cung) nằm ở phía Bắc Kinh Đô.
-- ⑤ Trụ sở chính của các thế lực chỉ đơn giản là một tòa kiến trúc - nơi hoạt động của nội bộ cao tầng, không phải là một thành thị riêng biệt. Các Thế lực không sở hữu vùng đất riêng nào cả.
-- ⑥ Ngoài những thị trấn đông dân cư tiêu biểu được ghi nhận trên bản đồ, thì vẫn có các làng xã khác rải rác khắp Huyễn Việt.
-- ⑦ Ngoài Trụ sở chính, các Thế lực đều có trạm liên lạc riêng tại Kinh Đô cùng các thị trấn đông dân cư (do NPC đảm nhiệm). Nhân vật có thể truyền tin về Tổng bộ thông qua các kênh này.
-- ⑧ Quần đảo Trường Hoàng: nằm ở vị trí cách chính quốc rất xa, là cơ mật quân sự trực thuộc triều đình. Bất cứ trường hợp xâm nhập bất hợp pháp nào cũng sẽ bị diệt trừ.
+① Huyễn Việt là một thế giới độc lập, tại chiều không gian này không tồn tại bất kỳ quốc gia hay lục địa nào khác.
+
+② Đại dương mênh mông không có điểm dừng. Từng có nhiều đại yêu ma quỷ quái thử bay qua biển lớn để tìm đến thềm lục địa khác nhưng đều bỏ mạng giữa biển khơi vì không đủ thể lực.
+
+③ Nhiều sông ngòi chằng chịt, không tiện vẽ hết lên bản đồ nên các bạn tự tưởng tượng nhé.
+
+④ Hoàng thành Đại Nội (hoàng cung) nằm ở phía Bắc Kinh Đô.
+
+⑤ Trụ sở chính của các thế lực chỉ đơn giản là một tòa kiến trúc - nơi hoạt động của nội bộ cao tầng, không phải là một thành thị riêng biệt. Các Thế lực không sở hữu vùng đất riêng nào cả.
+
+⑥ Ngoài những thị trấn đông dân cư tiêu biểu được ghi nhận trên bản đồ, thì vẫn có các làng xã khác rải rác khắp Huyễn Việt.
+
+⑦ Ngoài Trụ sở chính, các Thế lực đều có trạm liên lạc riêng tại Kinh Đô cùng các thị trấn đông dân cư (do NPC đảm nhiệm). Nhân vật có thể truyền tin về Tổng bộ thông qua các kênh này.
+
+⑧ Quần đảo Trường Hoàng: nằm ở vị trí cách chính quốc rất xa, là cơ mật quân sự trực thuộc triều đình. Bất cứ trường hợp xâm nhập bất hợp pháp nào cũng sẽ bị diệt trừ.
 
 ---
 
 #### PHÂN BỐ DÂN CƯ
 
 ① Cư dân thuộc các thế lực lớn từ bao đời nay vẫn sinh sống hòa bình và trộn lẫn với nhau, trải dài khắp Huyễn Việt.
+
 ② Vùng lân cận của Trụ sở thế lực và bên trong Kinh Đô được tính là khu vực đông dân cư.
+
 ③ Những khu vực gần Trụ sở chính của bốn thế lực lớn có mật độ tập trung cư dân thuộc thế lực đó nhiều hơn các thế lực khác.
+
 ④ Tuy nhiên, không nhất thiết rằng nhân vật thuộc thế lực nào thì phải ở yên chỗ đó. (Ví dụ: Nhân vật thuộc thế lực Kim Quy vẫn có thể sinh sống và làm việc ở vùng lân cận Long Môn).
 
 ---
@@ -171,7 +181,9 @@ _Đây là bản đồ giả tưởng dành cho thế giới Huyễn Việt kỳ
 #### ĐỊA ĐIỂM TƯƠNG TÁC
 
 ① Người chơi có thể tự do tạo địa điểm mới, miễn không dẫn đến mâu thuẫn với thiết lập chính. (Ví dụ: địa hình núi tuyết chỉ có ở phía Bắc, không có ở phía Nam).
+
 ② Các địa điểm tương tác do người chơi tạo ra không được liên quan và gây ảnh hưởng đến Triều đình cùng bốn Trụ sở thế lực. (Ví dụ: không thể tạo hồ sen bên trong Trụ sở hay Hoàng cung).
+
 ③ Các địa danh và tên riêng có thể lấy cảm hứng từ thực tế, nhưng không nên dùng tên chính xác, mà hãy đặt lại cho nó một cái tên mới có thể gợi nhớ. (Ví dụ: kinh đô Hoa Lư -> Huyễn Lư).
 
 ![Ảnh minh họa trưởng các thế lực](img\au\hvkd_header_2.jpg)
@@ -325,6 +337,7 @@ Yêu cầu người chơi:
 - Không mary sue nhân vật.
 
 - Hashtag: [#Thần_Khí_AU](https://www.facebook.com/hashtag/th%E1%BA%A7n_kh%C3%AD_au)
+- Cộng đồng: [🔗](../community.md#au)
 
 ![](img/au/thankhi_intro_tds.jpg)
 

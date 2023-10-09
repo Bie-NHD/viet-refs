@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+label: Giới thiệu
 slug: /
 ---
 
-# Home
+# 🏠 Giới thiệu
 
 ## 🌟 **CREDITS**
 
