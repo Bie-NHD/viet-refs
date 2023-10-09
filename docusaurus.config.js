@@ -6,9 +6,20 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Viet References",
-  tagline: "Dinosaurs are cool",
+  title: "Việt References",
+  tagline:
+    "Tài liệu tổng hợp về tài nguyên sáng tạo cho các sản phẩm sáng tạo Việt",
   favicon: "img/favicon.ico",
+  headTags: [
+    {
+      tagName: "meta",
+      attributes: {
+        name: "description",
+        content:
+          "Tài liệu tổng hợp các nguồn sưu tầm về cổ phục Việt, các tác phẩm lấy cảm hứng từ văn hóa dân gian Việt và các sân chơi, chủ đề, ý tưởng cho các tác phẩm sáng tạo từ chất liệu Việt Nam.",
+      },
+    },
+  ],
 
   // Set the production url of your site here
   url: "https://vietrefs.pages.dev",
@@ -45,8 +56,8 @@ const config = {
           routeBasePath: "/", // Serve the docs at the site's root
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          // editUrl:
+          //   "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: false,
         // blog: {
@@ -112,23 +123,23 @@ const config = {
           //     },
           //   ],
           // },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
+          // {
+          //   title: "Community",
+          //   items: [
+          //     {
+          //       label: "Stack Overflow",
+          //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
+          //     },
+          //     {
+          //       label: "Discord",
+          //       href: "https://discordapp.com/invite/docusaurus",
+          //     },
+          //     {
+          //       label: "Twitter",
+          //       href: "https://twitter.com/docusaurus",
+          //     },
+          //   ],
+          // },
           // {
           //   title: "More",
           //   items: [
