@@ -79,6 +79,26 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
+      metadata: [
+        {
+          name: "description",
+          content:
+            "Tài liệu tổng hợp các nguồn sưu tầm về cổ phục Việt, các tác phẩm lấy cảm hứng từ văn hóa dân gian Việt và các sân chơi, chủ đề, ý tưởng cho các tác phẩm sáng tạo từ chất liệu Việt Nam.",
+        },
+        {
+          name: "keywords",
+          content:
+            "Việt Nam, Việt phục, cổ phong, tài liệu, thuần Việt, văn hóa, truyền thống, trang phục, cổ truyền",
+        },
+        {
+          name: "robots",
+          content: "index, follow",
+        },
+        {
+          "http-equiv": "audience",
+          content: "General",
+        },
+      ],
       navbar: {
         title: "Viet References",
         logo: {
