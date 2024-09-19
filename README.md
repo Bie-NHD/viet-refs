@@ -1,9 +1,9 @@
 # 🏠 Giới thiệu
 
 > Đây là bản chỉ mục tài liệu liên quan tới văn hóa Việt Nam
->
+
 > Cập nhật lần cuối: ngày 19, tháng 09, năm 2024
->
+
 > Liên hệ bổ sung: bình luận trực tiếp vào bài viết [này](https://www.facebook.com/bie.nhd.33/posts/pfbid02rp2zgP1je9298ogFrqjyr6h2ZxEn8VG6NxbT5gLioaSrgxZ2xooYid6FLERk3D2El)
 
 🌟 CREDITS
@@ -146,6 +146,9 @@ _Các tác phẩm lấy cảm hứng, gìn giữ, phát huy các nội dung truy
 > Credits @ Link { Thịnh Đường Dạ Thoại }: https://weibo.cn/profile/7443600693
 
 ![](img\au\hvkd_header_3.jpg)
+
+<details>
+<summary><b>Chi tiết thiết lập</b></summary>
 
 #### BỐI CẢNH
 
@@ -430,6 +433,8 @@ D. HƯỚNG DẪN ĐĂNG KÝ OC
   - https://www.facebook.com/groups/huyenvietkydam/permalink/3168159206571744/
   - https://www.facebook.com/articles/662716279193361/
 
+</details>
+
 ### Thần Khí
 
 _Nội dung và hình ảnh thuộc quyền sở hữu của các tác giả_
@@ -450,6 +455,9 @@ Yêu cầu người chơi:
 
 - Hashtag: [#Thần_Khí_AU](https://www.facebook.com/hashtag/th%E1%BA%A7n_kh%C3%AD_au)
 - Cộng đồng: - [Facebook Group](https://www.facebook.com/groups/135056756346282/) | [Discord](https://discord.com/invite/cvAegd2gQe)
+
+<details>
+<summary><b>Chi tiết thiết lập</b></summary>
 
 ![](img/au/thankhi_intro_tds.jpg)
 
@@ -509,6 +517,8 @@ kẻ được Thần Khí lựa chọn. Trên cơ thể Thượng Diện Sứ c�
 
 - [Bài viết #1](https://www.facebook.com/permalink.php?story_fbid=pfbid0TtqzgLdhPuvPnecxMw3mtNqjLLr8qgJZnRzMCApb2gLPDWZ8g2W1J2mYV3ePwJiLl&id=100027797661499)
 - [Bài viết #2](https://www.facebook.com/banhxeo.yenhoangnguyen/posts/pfbid0SSKLPUU8qfjqf3QywPii5n72EN2YqfwafmdKpzK5kvs8Asxc6B1GqzqLpzfPS52hl)
+
+</details>
 
 ## Game
 
