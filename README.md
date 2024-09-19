@@ -3,6 +3,8 @@
 > Đây là bản chỉ mục tài liệu liên quan tới văn hóa Việt Nam
 >
 > Cập nhật lần cuối: ngày 19, tháng 09, năm 2024
+>
+> Liên hệ bổ sung: bình luận trực tiếp vào bài viết [này](https://www.facebook.com/bie.nhd.33/posts/pfbid02rp2zgP1je9298ogFrqjyr6h2ZxEn8VG6NxbT5gLioaSrgxZ2xooYid6FLERk3D2El)
 
 🌟 CREDITS
 
@@ -21,7 +23,12 @@
 - Gương phong tục - Đoàn Duy Bình | Hàn lâm điển tịch
 - Văn hóa, Tín ngưỡng và thực hành tôn giáo người Việt - Léopold Cadière
 - [L'art a Hué Nouvelle edition autorisee - Association des amis du vieux Hué](https://archive.org/details/larthunouvelle00asso)
-- An Nam thời xưa - Pierre Pasquier (Toàn quyền Đông Dương) | [Bài viết trên báo Nhân dân](https://nhandan.vn/doc-sach-an-nam-thoi-xua-mot-hinh-dung-song-dong-ve-an-nam-post779457.html)
+- An Nam thời xưa - Pierre Pasquier (Toàn quyền Đông Dương) | [Báo Nhân dân](https://nhandan.vn/doc-sach-an-nam-thoi-xua-mot-hinh-dung-song-dong-ve-an-nam-post779457.html)
+- Tập tục đời người - Phan Cẩm Thượng | [Goodreads](https://nhandan.vn/doc-sach-an-nam-thoi-xua-mot-hinh-dung-song-dong-ve-an-nam-post779457.html)
+- Truyền kỳ mạn lục - Nguyễn Dữ | [Wikipedia](https://vi.wikipedia.org/wiki/Truy%E1%BB%81n_k%E1%BB%B3_m%E1%BA%A1n_l%E1%BB%A5c)
+- Vũ Trung Tùy Bút - Phạm Đình Hổ | [Wikipedia](https://vi.wikipedia.org/wiki/V%C5%A9_trung_t%C3%B9y_b%C3%BAt)
+- Việt Điện U Linh Tập - Lý Tế Xuyên | [Wikipedia](https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_%C4%91i%E1%BB%87n_u_linh_t%E1%BA%ADp)
+- Việt Nam Văn hóa sử cương - Đào Duy Anh | [Bài viết FB](https://www.facebook.com/gioithieusachhaychobantre/posts/pfbid0NStr9NwpH1fkJGrAkEF5ZsviNRCVCy5zRfXv2YHAaGg4JL7Fw9EGdQbxepjqFtULl)
 
 # 💻 Tài liệu trực tuyến
 
@@ -62,9 +69,7 @@
 - [@nguyen_dynasty_1802_1945](https://www.instagram.com/nguyen_dynasty_1802_1945/)
 - [@vietnameseartinparis](https://www.instagram.com/vietnameseartinparis/)
 - [Nguyễn T.A Phong](https://www.facebook.com/profile.php?id=100079904440298) --- nhiếp ảnh
-- [Hoa Niên](https://www.facebook.com/Hoanien.concept) | [Tiktok](https://www.tiktok.com/@hoanien.concept)
-
-  > Hoa Niên là thương hiệu cung cấp dịch vụ tư vấn thiết kế, may đo và cho thuê cổ phục Việt Nam
+- [Hoa Niên](https://www.facebook.com/Hoanien.concept) | [Tiktok](https://www.tiktok.com/@hoanien.concept) --- trang phục thiết kế
 
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FHoanien.concept%2Fposts%2Fpfbid07NLi5efhjJZbKDq4P7XASF354ixBsmiudTahVgwKKdD4FPU12VvpAqenpCGyGVGol&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -76,6 +81,11 @@
 - [Vietnam Centre](https://www.facebook.com/VietnamCentre)
 - [Tiếng Việt giàu đẹp](https://www.facebook.com/tiengvietgiaudep) --- ngôn ngữ
 - [Vạn Thiên Y](https://www.facebook.com/vanthieny291/) --- trang phục thiết kế
+- [Đông Phong](https://www.facebook.com/dongphongvn)
+- [Ảnh chụp tư liệu](https://www.facebook.com/mugwo6666/posts/pfbid0ZtM47pbmxgaqsYHXP3n3X1cgiLBEWRkgMSW7whn3kcPYDcWi75QCJGPYfyJ9mz1Dl) Hoàng thành Thăng Long bởi @mugwo6666
+- [Lịch sử Đại Việt](https://www.facebook.com/Historyofdaiviet)
+- [Ảnh chụp áo Nhật Bình](https://www.facebook.com/permalink.php?story_fbid=pfbid0iA78n99iHYT2RESjZA9jaGbtoz6CmsDHmenZytz9MR5h8beeZMvC6dN65MYLiKp6l&id=100088438490749) trong bảo tàng, bởi "Ánh Nè"(id=100088438490749)
+- [Bộ tranh](https://www.facebook.com/tintucvtv9/videos/1029948004936926) thực hiện bởi họa sĩ Nguyễn Văn Nhân, dưới triều vua Thành Thái, nhà Nguyễn
 
 ## Trên tin tức, thời sự chính thức
 
@@ -95,11 +105,6 @@
 - [Đại Việt Cổ Phong - 大越古風 - VietnamAncient](https://www.facebook.com/groups/630359420385614)
 - [Đình làng Việt](https://www.facebook.com/groups/DinhlangVN)
 - [Thuở Vàng Son](https://www.facebook.com/groups/521603065452080/)
-
-🦄 Alternated Universe / AU
-
-- [Thần Khí](https://www.facebook.com/groups/135056756346282/)
-- [Huyễn Việt Kỳ Đàm](https://www.facebook.com/groups/huyenvietkydam)
 
 # 🖊️ Tác phẩm
 
@@ -179,13 +184,9 @@ Vốn tứ phương tự cân bằng lẫn nhau, dẫu có ngầm phân tranh c�
 
 ##### ֍ YÊU
 
-① Mô tả:
+① Mô tả: Là động vật, thực vật, hoặc đồ vật tu luyện nhiều năm biến thành.
 
-- Là động vật, thực vật, hoặc đồ vật tu luyện nhiều năm biến thành.
-
-② Phân biệt:
-
-- Có thể biến hóa thành dạng người, tuy nhiên vẫn lưu giữ đặc điểm ngoại hình của bản thể. (Ví dụ: tai thú, đuôi thú, vân hoa lá, v.v.)
+② Phân biệt: Có thể biến hóa thành dạng người, tuy nhiên vẫn lưu giữ đặc điểm ngoại hình của bản thể. (Ví dụ: tai thú, đuôi thú, vân hoa lá, v.v.)
 
 ③ Đặc điểm:
 
@@ -197,13 +198,9 @@ Vốn tứ phương tự cân bằng lẫn nhau, dẫu có ngầm phân tranh c�
 
 ##### ֍ MA (QUỶ)
 
-① Mô tả:
+① Mô tả: Là oan hồn mang chấp niệm, không có thực thể, phải đi chiếm xác để tồn tại.
 
-- Là oan hồn mang chấp niệm, không có thực thể, phải đi chiếm xác để tồn tại.
-
-② Phân biệt:
-
-- Nước da tái nhợt, tròng mắt đen, móng tay đen, thân nhiệt thấp.
+② Phân biệt: Nước da tái nhợt, tròng mắt đen, móng tay đen, thân nhiệt thấp.
 
 ③ Đặc điểm:
 
@@ -217,13 +214,9 @@ Vốn tứ phương tự cân bằng lẫn nhau, dẫu có ngầm phân tranh c�
 
 ##### ֍ QUÁI
 
-① Mô tả:
+① Mô tả: Là quái vật dị biến riêng biệt, sinh ra đã là quái.
 
-- Là quái vật dị biến riêng biệt, sinh ra đã là quái.
-
-② Phân biệt:
-
-- Có thể có nhân dạng hoặc không. Ngoại hình có nhiều điểm dị thường, và các bộ phận phi nhân loại. (Ví dụ: nhiều tay chân mắt mũi, hoặc là mọc thêm sừng, v.v. xyz tuỳ các bạn chế biến.)
+② Phân biệt:Có thể có nhân dạng hoặc không. Ngoại hình có nhiều điểm dị thường, và các bộ phận phi nhân loại. (Ví dụ: nhiều tay chân mắt mũi, hoặc là mọc thêm sừng, v.v. xyz tuỳ các bạn chế biến.)
 
 ③ Đặc điểm:
 
